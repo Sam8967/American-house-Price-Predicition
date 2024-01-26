@@ -1,2 +1,4 @@
-These file is based on the house price predicition
-These is the file in which I have applied the Linear Regression model.
+These is the American house price Predicition Model. 
+The primary aim of these model is to predict the house price. 
+In these project I have used the Linear regression model.
+I have used various techniques in these models such as feature engineering, Feature extraction,etc.
